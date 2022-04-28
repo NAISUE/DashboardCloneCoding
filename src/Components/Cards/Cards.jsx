@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardsData } from '../Data/Data'
+import { CardsData } from '../../Data/Data'
 import './Cards.css'
 import Card from '../Card/Card'
 
